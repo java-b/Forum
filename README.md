@@ -9,6 +9,7 @@
 ## 扩展书目
 
 下面的推荐书目都是 Java 的经典教材，并可以在 [FTP服务器](ftp://10.132.141.33) 上下载。希望大家养成英文原著阅读的习惯，如果不适应，可以自行搜索中文翻译版本。
+注意，扩展书目量力而行，后三本已经远远超出课程要求。
 
 - `入门` [Head First Java](https://letuscsolutions.files.wordpress.com/2014/09/head-first-java-2nd-edition.pdf) 此书较简单，为入门而著。
 - [Thinking in Java](http://sd.blackball.lv/library/Thinking_in_Java_4th_edition.pdf) 此书内容繁杂，详尽而细致，但是也因此多了些琐碎，是本大部头。复旦图书馆有中文版出借。
