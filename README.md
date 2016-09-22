@@ -11,6 +11,9 @@
 
 - [如何使用 IDEA？](https://github.com/java-b/Forum/blob/master/IDEA.md)
 
+## 常见问题
+
+- [如何解决编码问题？使用 javac 编译后出现奇奇怪怪的乱码怎么办？](https://github.com/java-b/Lab-0/issues/2)
 
 ## 扩展书目
 
