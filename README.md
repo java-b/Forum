@@ -4,7 +4,13 @@
 
 - [讨论区在哪里？](https://github.com/java-b/Forum/issues)  
 - [如何在讨论区发帖？](https://github.com/java-b/Forum/issues/3)  
-- [如何在讨论区回复？](https://github.com/java-b/Forum/issues/2)  
+- [如何在讨论区回复？](https://github.com/java-b/Forum/issues/2) 
+- 
+
+## 工具使用
+
+- [如何使用 IDEA](https://github.com/java-b/Forum/blob/master/IDEA.md)
+
 
 ## 扩展书目
 
